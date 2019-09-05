@@ -23,7 +23,17 @@ Made with ❤️ by <a href="https://github.com/warifp">Wahyu Arif Purnomo</a>
 
 <p align="center">
 <a><br> VERSION 1.0 </br></a>
-  <img src="images/version/1.0.png" width="350" title="Version 1.3" alt="Version 1.3">
+  <img src="images/version/1.0.png" width="350" title="Version 1.0" alt="Version 1.0">
+</p>
+
+<p align="center">
+<a><br> VERSION 2.0 </br></a>
+  <img src="images/version/2.0.png" width="350" title="Version 2.0" alt="Version 2.0">
+</p>
+
+<p align="center">
+<a><br> VERSION 3.0 </br></a>
+  <img src="images/version/3.0.png" width="350" title="Version 3.0" alt="Version 3.0">
 </p>
 
 ## Features in tools
@@ -33,6 +43,7 @@ Made with ❤️ by <a href="https://github.com/warifp">Wahyu Arif Purnomo</a>
 | Check all accounts                 | :white_check_mark: | check accounts by list                             |
 | Check account email                | :white_check_mark: | check accounts by email                            |
 | Create an account                  | :white_check_mark: | create account fast                                |
+| Create an account [mass]           | :white_check_mark: | create account fast by list file                   |
 | Music or Playlist Downloader       | ❌                 | download music by list or playlist                 |
 
 
@@ -45,6 +56,23 @@ Version 1.0 :
   Changelog :
 
 -   Build
+
+Version 2.0 :
+
+    sorry, no video tutorial.
+
+  Changelog :
+
+-   add account information in results menu "check all accounts".
+-   add log live user|pass in folder result/live.log
+
+Version 3.0 :
+
+    sorry, no video tutorial.
+
+  Changelog :
+
+-   add menu "Create an account [mass]"
 
 ## Installation
 
